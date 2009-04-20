@@ -1,0 +1,5 @@
+{
+    "name": "BespinServ",
+    "description": "Bespin Server in JavaScript",
+    "js": "lib"
+}
